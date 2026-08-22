@@ -13,6 +13,9 @@ With extensive clinical and academic experience in hepatobiliary oncology, I spe
 
 Previously, I served as the **Deputy Director of the Department of Liver Surgery at the First Affiliated Hospital of Harbin Medical University**, where I contributed to clinical care, surgical education, and translational research in liver cancer.
 
+My research focuses on the molecular mechanisms driving **hepatobiliary tumor initiation, progression, metastasis, and therapeutic resistance**. By integrating molecular biology, translational medicine, and multi-omics approaches, my laboratory investigates novel biomarkers and therapeutic targets for liver cancer and aims to translate fundamental discoveries into clinically relevant strategies.
+
+I have authored numerous peer-reviewed publications in international journals and have led competitive research programs, including projects supported by the **National Natural Science Foundation of China (NSFC)**. My research has contributed to a better understanding of tumor metabolism, metastasis, and treatment resistance in hepatocellular carcinoma, with the goal of developing more effective therapeutic strategies for patients with liver cancer.
 
 
 ---
