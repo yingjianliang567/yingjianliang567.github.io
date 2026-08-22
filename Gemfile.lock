@@ -20,6 +20,7 @@ GEM
     ffi (1.17.3)
     ffi (1.17.3-arm64-darwin)
     ffi (1.17.3-x64-mingw-ucrt)
+    ffi (1.17.3-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.1)
     i18n (1.14.8)
@@ -92,6 +93,7 @@ PLATFORMS
   arm64-darwin-25
   x64-mingw-ucrt
   x64-unknown
+  x86_64-linux
 
 DEPENDENCIES
   base64
