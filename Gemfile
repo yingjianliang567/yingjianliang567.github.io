@@ -11,11 +11,6 @@ gem "jekyll-feed"
 # Platform dependencies
 gem "webrick", "~> 1.7"
 
-# Required for Ruby 3.4+
-gem "csv"
-gem "bigdecimal"
-gem "base64"
-
 gem "tzinfo", "~> 2.0"
 
 gem "tzinfo-data", "~> 1.2026"
