@@ -6,7 +6,7 @@ layout: page
 
 <img src="images/Yingjian Liang.png" class="floatpic">
 
-I am **Yingjian Liang, MD, PhD**, a Professor, Chief Physician, and Doctoral Supervisor at **Harbin Medical University Cancer Hospital**, where I serve as the **Leader of Hepatobiliary and Pancreatic Surgery**.
+I am **Yingjian Liang, MD, PhD**, a Professor, Chief Physician, and Doctoral Supervisor at **Harbin Medical University Cancer Hospital**, where I serve as the **Director of Hepatobiliary and Pancreatic Surgery**.
 
 With extensive clinical and academic experience in hepatobiliary oncology, I specialize in the surgical management of complex hepatobiliary and pancreatic malignancies, including hepatocellular carcinoma, biliary tract cancers, and other advanced liver tumors. My clinical practice focuses on multidisciplinary treatment strategies and precision surgical approaches aimed at improving outcomes for patients with hepatobiliary cancers.
 
